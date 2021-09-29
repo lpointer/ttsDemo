@@ -1,0 +1,2 @@
+rootProject.name = "ttsDemo"
+include ':app'

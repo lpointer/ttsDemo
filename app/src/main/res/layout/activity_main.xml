@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/black">
+    <TextView
+        android:id="@+id/back"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="30sp"
+        android:layout_marginTop="60dp"
+        android:textColor="@color/white"
+        android:text="返回"/>
+    <TextView
+        android:id="@+id/date"
+        android:textSize="42sp"
+        android:textColor="@color/white"
+        android:layout_marginTop="100dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"/>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="center_vertical"
+        android:orientation="horizontal">
+        <com.iflytek.wheelview.WheelView
+            android:id="@+id/wheelY"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingStart="@dimen/btn_size"
+            android:paddingEnd="@dimen/btn_size"
+            android:textColor="@color/white"
+            app:wheelItemCount="3"
+            app:wheelSelectedTextColor="@color/wheel_selected_text_color"
+            app:wheelTextSize="@dimen/wheel_text_size" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="8dp"
+            android:text="年"
+            android:textColor="@color/white"
+            android:textSize="@dimen/wheel_text_size" />
+
+        <com.iflytek.wheelview.WheelView
+            android:id="@+id/wheelM"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingStart="@dimen/btn_size"
+            android:paddingEnd="@dimen/btn_size"
+            android:textColor="@color/white"
+            app:wheelEntries="@array/months"
+            app:wheelItemCount="3"
+            app:wheelSelectedTextColor="@color/wheel_selected_text_color"
+            app:wheelTextSize="@dimen/wheel_text_size" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="8dp"
+            android:text="月"
+            android:textColor="@color/white"
+            android:textSize="@dimen/wheel_text_size" />
+
+        <com.iflytek.wheelview.WheelView
+            android:id="@+id/wheelD"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingStart="@dimen/btn_size"
+            android:paddingEnd="@dimen/btn_size"
+            android:textColor="@color/white"
+            app:wheelItemCount="3"
+            app:wheelSelectedTextColor="@color/wheel_selected_text_color"
+            app:wheelTextSize="@dimen/wheel_text_size" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="8dp"
+            android:text="日"
+            android:textColor="@color/white"
+            android:textSize="@dimen/wheel_text_size" />
+
+        <com.iflytek.wheelview.WheelView
+            android:id="@+id/wheelH"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingStart="@dimen/btn_size"
+            android:paddingEnd="@dimen/btn_size"
+            android:textColor="@color/white"
+            app:wheelItemCount="3"
+            app:wheelSelectedTextColor="@color/wheel_selected_text_color"
+            app:wheelTextSize="@dimen/wheel_text_size" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="8dp"
+            android:text="时"
+            android:textColor="@color/white"
+            android:textSize="@dimen/wheel_text_size" />
+
+        <com.iflytek.wheelview.WheelView
+            android:id="@+id/wheelMm"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingStart="@dimen/btn_size"
+            android:paddingEnd="@dimen/btn_size"
+            android:textColor="@color/white"
+            app:wheelItemCount="3"
+            app:wheelSelectedTextColor="@color/wheel_selected_text_color"
+            app:wheelTextSize="@dimen/wheel_text_size" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="8dp"
+            android:text="分"
+            android:textColor="@color/white"
+            android:textSize="@dimen/wheel_text_size" />
+    </LinearLayout>
+
+
+
+</LinearLayout>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--日期选择器-->
+    <declare-styleable name="WheelView">
+        <attr name="wheelCyclic" format="boolean" />
+        <attr name="wheelEntries" format="reference" />
+        <attr name="wheelItemCount" format="integer" />
+        <attr name="wheelTextSize" format="dimension" />
+        <attr name="wheelTextColor" format="color" />
+        <attr name="wheelSelectedTextColor" format="color" />
+    </declare-styleable>
+</resources>

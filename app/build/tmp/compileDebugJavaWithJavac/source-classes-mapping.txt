@@ -1,0 +1,74 @@
+com/iflytek/wheelview/WheelScroller.java
+ com.iflytek.wheelview.WheelScroller
+com/iflytek/speech/util/XmlParser.java
+ com.iflytek.speech.util.XmlParser
+com/iflytek/mscv5plusdemo/BuildConfig.java
+ com.iflytek.mscv5plusdemo.BuildConfig
+com/iflytek/wheelview/OnWheelChangedListener.java
+ com.iflytek.wheelview.OnWheelChangedListener
+com/iflytek/speech/util/JsonParser.java
+ com.iflytek.speech.util.JsonParser
+com/iflytek/speech/util/FucUtil.java
+ com.iflytek.speech.util.FucUtil
+com/iflytek/speech/util/SettingTextWatcher.java
+ com.iflytek.speech.util.SettingTextWatcher
+com/iflytek/mscv5plusdemo/AsrDemo.java
+ com.iflytek.mscv5plusdemo.AsrDemo
+ com.iflytek.mscv5plusdemo.AsrDemo$1
+ com.iflytek.mscv5plusdemo.AsrDemo$2
+ com.iflytek.mscv5plusdemo.AsrDemo$3
+ com.iflytek.mscv5plusdemo.AsrDemo$4
+ com.iflytek.mscv5plusdemo.AsrDemo$5
+com/iflytek/mscv5plusdemo/OneShotDemo.java
+ com.iflytek.mscv5plusdemo.OneShotDemo
+ com.iflytek.mscv5plusdemo.OneShotDemo$1
+ com.iflytek.mscv5plusdemo.OneShotDemo$2
+ com.iflytek.mscv5plusdemo.OneShotDemo$3
+ com.iflytek.mscv5plusdemo.OneShotDemo$4
+ com.iflytek.mscv5plusdemo.OneShotDemo$5
+com/iflytek/mscv5plusdemo/MainActivity.java
+ com.iflytek.mscv5plusdemo.MainActivity
+com/iflytek/mscv5plusdemo/IvwActivity.java
+ com.iflytek.mscv5plusdemo.IvwActivity
+com/iflytek/mscv5plusdemo/MainActivity2.java
+ com.iflytek.mscv5plusdemo.MainActivity2
+ com.iflytek.mscv5plusdemo.MainActivity2$1
+ com.iflytek.mscv5plusdemo.MainActivity2$2
+com/iflytek/mscv5plusdemo/TtsManager.java
+ com.iflytek.mscv5plusdemo.TtsManager
+ com.iflytek.mscv5plusdemo.TtsManager$1
+ com.iflytek.mscv5plusdemo.TtsManager$2
+ com.iflytek.mscv5plusdemo.TtsManager$3
+com/iflytek/mscv5plusdemo/WakeDemo.java
+ com.iflytek.mscv5plusdemo.WakeDemo
+ com.iflytek.mscv5plusdemo.WakeDemo$1
+ com.iflytek.mscv5plusdemo.WakeDemo$2
+ com.iflytek.mscv5plusdemo.WakeDemo$3
+ com.iflytek.mscv5plusdemo.WakeDemo$4
+ com.iflytek.mscv5plusdemo.WakeDemo$5
+ com.iflytek.mscv5plusdemo.WakeDemo$6
+com/iflytek/speech/setting/TtsSettings.java
+ com.iflytek.speech.setting.TtsSettings
+com/iflytek/mscv5plusdemo/IatDemo.java
+ com.iflytek.mscv5plusdemo.IatDemo
+ com.iflytek.mscv5plusdemo.IatDemo$1
+ com.iflytek.mscv5plusdemo.IatDemo$2
+ com.iflytek.mscv5plusdemo.IatDemo$3
+ com.iflytek.mscv5plusdemo.IatDemo$4
+ com.iflytek.mscv5plusdemo.IatDemo$5
+ com.iflytek.mscv5plusdemo.IatDemo$6
+com/iflytek/mscv5plusdemo/TtsDemo.java
+ com.iflytek.mscv5plusdemo.TtsDemo
+ com.iflytek.mscv5plusdemo.TtsDemo$1
+ com.iflytek.mscv5plusdemo.TtsDemo$2
+ com.iflytek.mscv5plusdemo.TtsDemo$3
+ com.iflytek.mscv5plusdemo.TtsDemo$4
+ com.iflytek.mscv5plusdemo.TtsDemo$5
+ com.iflytek.mscv5plusdemo.TtsDemo$6
+com/iflytek/speech/setting/IatSettings.java
+ com.iflytek.speech.setting.IatSettings
+com/iflytek/wheelview/WheelView.java
+ com.iflytek.wheelview.WheelView
+com/iflytek/mscv5plusdemo/SpeechApp.java
+ com.iflytek.mscv5plusdemo.SpeechApp
+ com.iflytek.mscv5plusdemo.SpeechApp$1
